@@ -1,0 +1,9 @@
+lastUpgrade=00950
+proj.pluginVersion=0.9.50
+proj.AppId=166117354207
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e166117354207%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.game.icepingu%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Fresh+Start+--%3e%0d%0a++%3cstring+name%3d%22achievement_fresh_start%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Runner+--%3e%0d%0a++%3cstring+name%3d%22achievement_runner%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Collect+20+coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_20_coins%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Collect+2+coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_2_coins%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Collect+10+coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_10_coins%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Collect+30+coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_collect_30_coins%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Best+Runner+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_best_runner%22+translatable%3d%22false%22%3eCgkI39X26uoEEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
+and.BundleId=com.game.icepingu

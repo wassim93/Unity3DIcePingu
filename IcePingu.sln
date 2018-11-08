@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcePingu", "IcePingu.csproj", "{2100ABDF-62B3-DB5C-0670-DF0B8AFB4F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcePingu.Editor", "IcePingu.Editor.csproj", "{D98ED81A-FDA7-CD81-2555-4BF628196803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2100ABDF-62B3-DB5C-0670-DF0B8AFB4F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2100ABDF-62B3-DB5C-0670-DF0B8AFB4F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2100ABDF-62B3-DB5C-0670-DF0B8AFB4F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2100ABDF-62B3-DB5C-0670-DF0B8AFB4F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98ED81A-FDA7-CD81-2555-4BF628196803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98ED81A-FDA7-CD81-2555-4BF628196803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98ED81A-FDA7-CD81-2555-4BF628196803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98ED81A-FDA7-CD81-2555-4BF628196803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
